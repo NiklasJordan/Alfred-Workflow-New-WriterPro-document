@@ -3,6 +3,9 @@ Alfred Workflow: New WriterPro document
 
 A smart Worklfow to open a new iA Writer Pro document. Nothing else.
 
+>„Simple“ is a tricky word, it can mean a lot of things. To us, it means clear. That doesn’t always mean total reduction, or minimalism — sometimes, to make things clearer, you have to add a step.“ 
+*— Jason Fried, Basecamp*
+
 ## Workflow
 This is a very simple Alfred Workflow: You choose a hotkey (e.g. ⇧ ⌘ W) and Alfred will open a new clean window in iA Writer Pro for you. Do it, it’s crazy.
 
